@@ -9,7 +9,8 @@
           "info-card#rethink",
           "flex-layout.col"
         ]
-      }
+      },
+      "shelf"
     ]
   },
   "rich-text": {
